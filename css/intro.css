@@ -1,10 +1,9 @@
 .intro{
-	
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position:  center 90px;
-	padding: 20px;
-	padding-top:350px;
-	margin-top: 68px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position:  center 90px;
+  padding: 20px;
+  padding-top:350px;
+  margin-top: 68px;
 }
